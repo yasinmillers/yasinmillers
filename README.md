@@ -1,4 +1,4 @@
-### Ssenyonga Yasin
+# Ssenyonga Yasin
 ## Data scientist, AI specialist and web developer.
 ssenyonga100@gmail.com  +256704046498
 I'm a computer science scholar with great interests in data science, machine learning, 
